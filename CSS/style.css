@@ -1,0 +1,39 @@
+@import url("href=https://fonts.googleapis.com/css2?family=Crimson+Text&family=Lora:wght@400;600&family=Oswald:wght@300;400&family=Roboto:wght@100;300&display=swap");
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/btn-blue.css");
+@import url("Components/banner.css");
+@import url("Components/card.css");
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+	text-align: justify;
+
+}
+h1, h2, h3 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	margin-top: 15px;
+}
+
+h2 {
+	margin-left: 15px;
+}
+
+p{
+		margin-right: 40px;
+		margin-left: 40px;
+
+	}
+
+a{
+	text-decoration: none;
+}
+
+#ctn1{
+	display: inline-flex;
+
+}
